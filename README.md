@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a passionate software developer who thrives on building scalable.<br>🤝 user-focused solutions that solve real-world problems.<br> efficient code—especially in javaScript/TypeScript—<br> drives me to create projects that blend innovation with practicality<br>🌱 I’m currently learning Python.<br>
+🔭 I'm a passionate software developer who thrives on building scalable.<br>🤝 user-focused solutions that solve real-world problems.<br> 🖥️ efficient code—especially in javaScript/TypeScript—<br> drives me to create projects that blend innovation with practicality<br>🌱 I’m currently learning Python.<br>
 
 
 # 💻 Tech Stack:
